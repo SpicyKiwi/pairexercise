@@ -1,9 +1,12 @@
 body {
   /* your styles here */
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
 }
 
 h1, #designed-by {
   /* your styles here */
+  text-align: center;
 }
 
 .style1 {
